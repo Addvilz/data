@@ -1,0 +1,507 @@
+{
+    "__meta": {
+        "name": "List of countries by number of mobile phones in use",
+        "attribution": "Wikipedia [https:\/\/en.wikipedia.org\/wiki\/List_of_countries_by_number_of_mobile_phones_in_use]",
+        "licensing": "This dataset uses material from the Wikipedia article \"List of countries by number of mobile phones in use\", which is released under the Creative Commons Attribution-Share-Alike License 3.0",
+        "date": "2016-04-22T18:21:36+02:00"
+    },
+    "data": [
+        {
+            "iso2": "CN",
+            "number_of_users": 1276660000,
+            "population": 1364270000,
+            "per_100": 93.2,
+            "info": "October 2014"
+        },
+        {
+            "iso2": "IN",
+            "number_of_users": 1017968757,
+            "population": 1295291543,
+            "per_100": 80.3,
+            "info": "31 January 2016"
+        },
+        {
+            "iso2": "US",
+            "number_of_users": 327577529,
+            "population": 317874628,
+            "per_100": 103.1,
+            "info": "April 2014"
+        },
+        {
+            "iso2": "BR",
+            "number_of_users": 284200000,
+            "population": 201032714,
+            "per_100": 141.3,
+            "info": "May 2015"
+        },
+        {
+            "iso2": "RU",
+            "number_of_users": 256116000,
+            "population": 142905200,
+            "per_100": 155.5,
+            "info": "July 2013"
+        },
+        {
+            "iso2": "ID",
+            "number_of_users": 236800000,
+            "population": 237556363,
+            "per_100": 99.68,
+            "info": "September 2013"
+        },
+        {
+            "iso2": "NG",
+            "number_of_users": 167371945,
+            "population": 177155754,
+            "per_100": 94.5,
+            "info": "Feb 2014"
+        },
+        {
+            "iso2": "PK",
+            "number_of_users": 140000000,
+            "population": 180854781,
+            "per_100": 77,
+            "info": "July 2014"
+        },
+        {
+            "iso2": "BD",
+            "number_of_users": 133720000,
+            "population": 157497000,
+            "per_100": 84.95,
+            "info": "April 2015"
+        },
+        {
+            "iso2": "JP",
+            "number_of_users": 121246700,
+            "population": 127628095,
+            "per_100": 95.1,
+            "info": null
+        },
+        {
+            "iso2": "DE",
+            "number_of_users": 107000000,
+            "population": 81882342,
+            "per_100": 130.1,
+            "info": "2013"
+        },
+        {
+            "iso2": "PH",
+            "number_of_users": 106987098,
+            "population": 94013200,
+            "per_100": 113.8,
+            "info": "October 2013"
+        },
+        {
+            "iso2": "MX",
+            "number_of_users": 101339000,
+            "population": 112322757,
+            "per_100": 90.2,
+            "info": "Jul. 2013"
+        },
+        {
+            "iso2": "IR",
+            "number_of_users": 96165000,
+            "population": 73973650,
+            "per_100": 130,
+            "info": "February 2013"
+        },
+        {
+            "iso2": "IT",
+            "number_of_users": 88580000,
+            "population": 60790400,
+            "per_100": 147.4,
+            "info": "Dec. 2013"
+        },
+        {
+            "iso2": "GB",
+            "number_of_users": 83100000,
+            "population": 64100000,
+            "per_100": 129.6,
+            "info": "Q4 2013"
+        },
+        {
+            "iso2": "VN",
+            "number_of_users": 72300000,
+            "population": 90549390,
+            "per_100": 79,
+            "info": "October 2013"
+        },
+        {
+            "iso2": "TR",
+            "number_of_users": 72200000,
+            "population": 81619392,
+            "per_100": 92.5,
+            "info": "2016"
+        },
+        {
+            "iso2": "FR",
+            "number_of_users": 72180000,
+            "population": 63573842,
+            "per_100": 114.2,
+            "info": "Dec. 2013"
+        },
+        {
+            "iso2": "EG",
+            "number_of_users": 92640000,
+            "population": 82120000,
+            "per_100": 112.81,
+            "info": "Egypt Ministry of Communications & IT, August 2013"
+        },
+        {
+            "iso2": "TH",
+            "number_of_users": 69000000,
+            "population": 67480000,
+            "per_100": 105,
+            "info": "2015"
+        },
+        {
+            "iso2": "UA",
+            "number_of_users": 57505555,
+            "population": 45579904,
+            "per_100": 126,
+            "info": "Dec. 2013"
+        },
+        {
+            "iso2": "KR",
+            "number_of_users": 56004887,
+            "population": 50219669,
+            "per_100": 111.5,
+            "info": "2014"
+        },
+        {
+            "iso2": "ES",
+            "number_of_users": 55740000,
+            "population": 47265321,
+            "per_100": 118,
+            "info": "Feb. 2013"
+        },
+        {
+            "iso2": "AR",
+            "number_of_users": 56725200,
+            "population": 40134425,
+            "per_100": 141.34,
+            "info": "2013"
+        },
+        {
+            "iso2": "PL",
+            "number_of_users": 47153200,
+            "population": 38186860,
+            "per_100": 123.48,
+            "info": "2013"
+        },
+        {
+            "iso2": "CO",
+            "number_of_users": 49066359,
+            "population": 47000000,
+            "per_100": 104.4,
+            "info": "2013"
+        },
+        {
+            "iso2": "ZA",
+            "number_of_users": 59474500,
+            "population": 50586757,
+            "per_100": 117.6,
+            "info": "2013 GSM African Mobile Observatory report"
+        },
+        {
+            "iso2": "MA",
+            "number_of_users": 44450000,
+            "population": 33818662,
+            "per_100": 131,
+            "info": "2015"
+        },
+        {
+            "iso2": "DZ",
+            "number_of_users": 33000000,
+            "population": 35000000,
+            "per_100": 94.2,
+            "info": "2013"
+        },
+        {
+            "iso2": "TW",
+            "number_of_users": 28610000,
+            "population": 23197947,
+            "per_100": 123.33,
+            "info": "September 2013"
+        },
+        {
+            "iso2": "KE",
+            "number_of_users": 28080000,
+            "population": 42000000,
+            "per_100": 71.3,
+            "info": "2013"
+        },
+        {
+            "iso2": "VE",
+            "number_of_users": 32019086,
+            "population": 30163157,
+            "per_100": 106.15,
+            "info": "2014"
+        },
+        {
+            "iso2": "PE",
+            "number_of_users": 33000000,
+            "population": 30000000,
+            "per_100": 110,
+            "info": "Oct. 2013"
+        },
+        {
+            "iso2": "RO",
+            "number_of_users": 26000000,
+            "population": 21438000,
+            "per_100": 123.45,
+            "info": "December 16, 2010"
+        },
+        {
+            "iso2": "CA",
+            "number_of_users": 28217707,
+            "population": 35675834,
+            "per_100": 79.1,
+            "info": "Q3 2014"
+        },
+        {
+            "iso2": "NL",
+            "number_of_users": 20000000,
+            "population": 16515057,
+            "per_100": 121.1,
+            "info": "Nov. 2013"
+        },
+        {
+            "iso2": "AU",
+            "number_of_users": 20570000,
+            "population": 23490700,
+            "per_100": 132,
+            "info": "~ November 2014"
+        },
+        {
+            "iso2": "SA",
+            "number_of_users": 46000000,
+            "population": 27137000,
+            "per_100": 169.5,
+            "info": "Jun 2013"
+        },
+        {
+            "iso2": "MY",
+            "number_of_users": 30379000,
+            "population": 28250000,
+            "per_100": 143.8,
+            "info": "Apr 2014"
+        },
+        {
+            "iso2": "LK",
+            "number_of_users": 22123000,
+            "population": 20771000,
+            "per_100": 107,
+            "info": "Dec. 2014"
+        },
+        {
+            "iso2": "CL",
+            "number_of_users": 21000000,
+            "population": 17094270,
+            "per_100": 122.9,
+            "info": "Dec. 2013"
+        },
+        {
+            "iso2": "NP",
+            "number_of_users": 18240670,
+            "population": 26620020,
+            "per_100": 86.82,
+            "info": "Apr. 2014"
+        },
+        {
+            "iso2": "ET",
+            "number_of_users": 18000000,
+            "population": 85000020,
+            "per_100": 21.8,
+            "info": "Dec. 2013"
+        },
+        {
+            "iso2": "GT",
+            "number_of_users": 17571895,
+            "population": 14713763,
+            "per_100": 119.4,
+            "info": "Jun. 2013"
+        },
+        {
+            "iso2": "EC",
+            "number_of_users": 15900000,
+            "population": 14300000,
+            "per_100": 111.18,
+            "info": "Jan. 2013"
+        },
+        {
+            "iso2": "PT",
+            "number_of_users": 13400000,
+            "population": 10562178,
+            "per_100": 126.87,
+            "info": "November 2013"
+        },
+        {
+            "iso2": "HK",
+            "number_of_users": 17445581,
+            "population": 7264100,
+            "per_100": 240.2,
+            "info": "March 2015"
+        },
+        {
+            "iso2": "BE",
+            "number_of_users": 11822000,
+            "population": 10414000,
+            "per_100": 113.6,
+            "info": "2013[citation needed]"
+        },
+        {
+            "iso2": "HU",
+            "number_of_users": 11561890,
+            "population": 9908798,
+            "per_100": 116.7,
+            "info": "Nov. 2013"
+        },
+        {
+            "iso2": "AE",
+            "number_of_users": 17132724,
+            "population": 8410763,
+            "per_100": 203.7,
+            "info": "Nov 2014"
+        },
+        {
+            "iso2": "SE",
+            "number_of_users": 11194000,
+            "population": 9103788,
+            "per_100": 122.9,
+            "info": "(July 2012 est.)"
+        },
+        {
+            "iso2": "BG",
+            "number_of_users": 10655000,
+            "population": 7600000,
+            "per_100": 140.2,
+            "info": "2008"
+        },
+        {
+            "iso2": "IL",
+            "number_of_users": 9319000,
+            "population": 7310000,
+            "per_100": 127.5,
+            "info": "2008"
+        },
+        {
+            "iso2": "FI",
+            "number_of_users": 9310000,
+            "population": 5457429,
+            "per_100": 170.4,
+            "info": "2H 2013"
+        },
+        {
+            "iso2": "SG",
+            "number_of_users": 8106700,
+            "population": 5399000,
+            "per_100": 150.1,
+            "info": "Jan 2015"
+        },
+        {
+            "iso2": "DK",
+            "number_of_users": 7000000,
+            "population": 5543819,
+            "per_100": 126.2,
+            "info": "February 2008"
+        },
+        {
+            "iso2": "AZ",
+            "number_of_users": 7000000,
+            "population": 8900000,
+            "per_100": 78.7,
+            "info": "November 2009"
+        },
+        {
+            "iso2": "JO",
+            "number_of_users": 6010000,
+            "population": 5950000,
+            "per_100": 101,
+            "info": "March 2010"
+        },
+        {
+            "iso2": "NZ",
+            "number_of_users": 4922000,
+            "population": 4430000,
+            "per_100": 111.1,
+            "info": "2012"
+        },
+        {
+            "iso2": "MN",
+            "number_of_users": 3500000,
+            "population": 2980000,
+            "per_100": 117.4,
+            "info": "2013"
+        },
+        {
+            "iso2": "EE",
+            "number_of_users": 2070000,
+            "population": 1294486,
+            "per_100": 159.9,
+            "info": "2012"
+        },
+        {
+            "iso2": "LB",
+            "number_of_users": 2720000,
+            "population": 4224000,
+            "per_100": 64.4,
+            "info": "Oct 2010"
+        },
+        {
+            "iso2": "LT",
+            "number_of_users": 4940000,
+            "population": 2955986,
+            "per_100": 167.1,
+            "info": "End of Q2 2013 (Tentative)"
+        },
+        {
+            "iso2": "CU",
+            "number_of_users": 1300000,
+            "population": 11200000,
+            "per_100": 11.6,
+            "info": "December 2011"
+        },
+        {
+            "iso2": "KP",
+            "number_of_users": 2000000,
+            "population": 24451285,
+            "per_100": 8.3,
+            "info": "April 2013"
+        },
+        {
+            "iso2": "PA",
+            "number_of_users": 6900000,
+            "population": 3405813,
+            "per_100": 202.5,
+            "info": "July 2013"
+        },
+        {
+            "iso2": "MT",
+            "number_of_users": 554651,
+            "population": 452515,
+            "per_100": 122.57,
+            "info": "June 2013"
+        },
+        {
+            "iso2": "ZW",
+            "number_of_users": 13518887,
+            "population": 13060000,
+            "per_100": 103.5,
+            "info": "January 2014"
+        },
+        {
+            "iso2": "ME",
+            "number_of_users": 1117500,
+            "population": 620029,
+            "per_100": 180.23,
+            "info": "September 2015"
+        },
+        {
+            "iso2": "IE",
+            "number_of_users": 5770638,
+            "population": 4581269,
+            "per_100": 125.9,
+            "info": "Q1 2015"
+        }
+    ]
+}

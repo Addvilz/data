@@ -1,0 +1,1065 @@
+{
+    "__meta": {
+        "name": "List of countries by number of Internet users",
+        "attribution": "Wikipedia [https:\/\/en.wikipedia.org\/wiki\/List_of_countries_by_number_of_Internet_users]",
+        "licensing": "This dataset uses material from the Wikipedia article \"List of countries by number of Internet users\n\", which is released under the Creative Commons Attribution-Share-Alike License 3.0",
+        "date": "2016-04-22T18:31:00+02:00"
+    },
+    "data": [
+        {
+            "iso2": "CN",
+            "number_of_users": 721434547,
+            "percentage": 52.2
+        },
+        {
+            "iso2": "IN",
+            "number_of_users": 462124989,
+            "percentage": 34.8
+        },
+        {
+            "iso2": "US",
+            "number_of_users": 286942362,
+            "percentage": 88.5
+        },
+        {
+            "iso2": "BR",
+            "number_of_users": 139111118,
+            "percentage": 66.4
+        },
+        {
+            "iso2": "JP",
+            "number_of_users": 115111595,
+            "percentage": 89.8
+        },
+        {
+            "iso2": "RU",
+            "number_of_users": 102258256,
+            "percentage": 71.3
+        },
+        {
+            "iso2": "NG",
+            "number_of_users": 86219965,
+            "percentage": 46.1
+        },
+        {
+            "iso2": "DE",
+            "number_of_users": 71016244,
+            "percentage": 88
+        },
+        {
+            "iso2": "BD",
+            "number_of_users": 63354000,
+            "percentage": 39.2
+        },
+        {
+            "iso2": "MX",
+            "number_of_users": 62954584,
+            "percentage": 50.84
+        },
+        {
+            "iso2": "GB",
+            "number_of_users": 54027428,
+            "percentage": 81.92
+        },
+        {
+            "iso2": "ID",
+            "number_of_users": 53236719,
+            "percentage": 20.4
+        },
+        {
+            "iso2": "FR",
+            "number_of_users": 51638402,
+            "percentage": 89.46
+        },
+        {
+            "iso2": "EG",
+            "number_of_users": 42271899,
+            "percentage": 49.56
+        },
+        {
+            "iso2": "KR",
+            "number_of_users": 41499326,
+            "percentage": 84.77
+        },
+        {
+            "iso2": "VN",
+            "number_of_users": 40597779,
+            "percentage": 43.9
+        },
+        {
+            "iso2": "PH",
+            "number_of_users": 39116638,
+            "percentage": 37
+        },
+        {
+            "iso2": "TR",
+            "number_of_users": 37321199,
+            "percentage": 46.25
+        },
+        {
+            "iso2": "IT",
+            "number_of_users": 35942120,
+            "percentage": 58.46
+        },
+        {
+            "iso2": "PK",
+            "number_of_users": 30063037,
+            "percentage": 16
+        },
+        {
+            "iso2": "ES",
+            "number_of_users": 36,
+            "percentage": 84
+        },
+        {
+            "iso2": "CA",
+            "number_of_users": 29659525,
+            "percentage": 85.8
+        },
+        {
+            "iso2": "AR",
+            "number_of_users": 25523978,
+            "percentage": 59.9
+        },
+        {
+            "iso2": "IR",
+            "number_of_users": 25074125,
+            "percentage": 31.4
+        },
+        {
+            "iso2": "PL",
+            "number_of_users": 24123917,
+            "percentage": 62.85
+        },
+        {
+            "iso2": "ZA",
+            "number_of_users": 23765937,
+            "percentage": 48.9
+        },
+        {
+            "iso2": "CO",
+            "number_of_users": 23650570,
+            "percentage": 51.7
+        },
+        {
+            "iso2": "MY",
+            "number_of_users": 19842134,
+            "percentage": 66.97
+        },
+        {
+            "iso2": "TH",
+            "number_of_users": 19533675,
+            "percentage": 28.94
+        },
+        {
+            "iso2": "TW",
+            "number_of_users": 18639773,
+            "percentage": 80
+        },
+        {
+            "iso2": "UA",
+            "number_of_users": 18631600,
+            "percentage": 41.8
+        },
+        {
+            "iso2": "AU",
+            "number_of_users": 18477876,
+            "percentage": 83
+        },
+        {
+            "iso2": "MA",
+            "number_of_users": 18283513,
+            "percentage": 56
+        },
+        {
+            "iso2": "KE",
+            "number_of_users": 17174686,
+            "percentage": 39
+        },
+        {
+            "iso2": "SA",
+            "number_of_users": 16298500,
+            "percentage": 60.5
+        },
+        {
+            "iso2": "NL",
+            "number_of_users": 15789408,
+            "percentage": 93.96
+        },
+        {
+            "iso2": "VE",
+            "number_of_users": 15624038,
+            "percentage": 54.9
+        },
+        {
+            "iso2": "PE",
+            "number_of_users": 11700927,
+            "percentage": 39.2
+        },
+        {
+            "iso2": "CL",
+            "number_of_users": 11449268,
+            "percentage": 66.5
+        },
+        {
+            "iso2": "UZ",
+            "number_of_users": 10948745,
+            "percentage": 38.2
+        },
+        {
+            "iso2": "RO",
+            "number_of_users": 10843923,
+            "percentage": 49.76
+        },
+        {
+            "iso2": "NP",
+            "number_of_users": 10690000,
+            "percentage": 40.3
+        },
+        {
+            "iso2": "KZ",
+            "number_of_users": 9577924,
+            "percentage": 54
+        },
+        {
+            "iso2": "SE",
+            "number_of_users": 9144140,
+            "percentage": 94.78
+        },
+        {
+            "iso2": "BE",
+            "number_of_users": 8582076,
+            "percentage": 82.17
+        },
+        {
+            "iso2": "SD",
+            "number_of_users": 7910476,
+            "percentage": 22.7
+        },
+        {
+            "iso2": "CZ",
+            "number_of_users": 7862937,
+            "percentage": 74.11
+        },
+        {
+            "iso2": "HU",
+            "number_of_users": 7220419,
+            "percentage": 72.64
+        },
+        {
+            "iso2": "CH",
+            "number_of_users": 6932555,
+            "percentage": 86.7
+        },
+        {
+            "iso2": "PT",
+            "number_of_users": 6705872,
+            "percentage": 62.1
+        },
+        {
+            "iso2": "AT",
+            "number_of_users": 6628192,
+            "percentage": 80.62
+        },
+        {
+            "iso2": "GR",
+            "number_of_users": 6449377,
+            "percentage": 59.87
+        },
+        {
+            "iso2": "DZ",
+            "number_of_users": 6284489,
+            "percentage": 15.2
+        },
+        {
+            "iso2": "EC",
+            "number_of_users": 6230378,
+            "percentage": 40.35
+        },
+        {
+            "iso2": "SY",
+            "number_of_users": 5883822,
+            "percentage": 26.2
+        },
+        {
+            "iso2": "UG",
+            "number_of_users": 5630927,
+            "percentage": 16.2
+        },
+        {
+            "iso2": "AZ",
+            "number_of_users": 5629423,
+            "percentage": 58.7
+        },
+        {
+            "iso2": "IL",
+            "number_of_users": 5456586,
+            "percentage": 70.8
+        },
+        {
+            "iso2": "DK",
+            "number_of_users": 5258054,
+            "percentage": 94.63
+        },
+        {
+            "iso2": "HK",
+            "number_of_users": 5255078,
+            "percentage": 74.2
+        },
+        {
+            "iso2": "BY",
+            "number_of_users": 5214344,
+            "percentage": 54.17
+        },
+        {
+            "iso2": "YE",
+            "number_of_users": 5067692,
+            "percentage": 20
+        },
+        {
+            "iso2": "NO",
+            "number_of_users": 4834019,
+            "percentage": 95.05
+        },
+        {
+            "iso2": "FI",
+            "number_of_users": 4819253,
+            "percentage": 91.51
+        },
+        {
+            "iso2": "AE",
+            "number_of_users": 4817095,
+            "percentage": 88
+        },
+        {
+            "iso2": "LK",
+            "number_of_users": 4746967,
+            "percentage": 21.9
+        },
+        {
+            "iso2": "TN",
+            "number_of_users": 4746112,
+            "percentage": 43.8
+        },
+        {
+            "iso2": "DO",
+            "number_of_users": 4690810,
+            "percentage": 45.9
+        },
+        {
+            "iso2": "SK",
+            "number_of_users": 4274461,
+            "percentage": 77.88
+        },
+        {
+            "iso2": "BO",
+            "number_of_users": 4132116,
+            "percentage": 39.5
+        },
+        {
+            "iso2": "SG",
+            "number_of_users": 3986020,
+            "percentage": 73
+        },
+        {
+            "iso2": "IE",
+            "number_of_users": 3737096,
+            "percentage": 78.25
+        },
+        {
+            "iso2": "RS",
+            "number_of_users": 5105488,
+            "percentage": 71.82
+        },
+        {
+            "iso2": "BG",
+            "number_of_users": 3704564,
+            "percentage": 53.06
+        },
+        {
+            "iso2": "NZ",
+            "number_of_users": 3613441,
+            "percentage": 82.78
+        },
+        {
+            "iso2": "AO",
+            "number_of_users": 3545966,
+            "percentage": 19.1
+        },
+        {
+            "iso2": "GH",
+            "number_of_users": 3099552,
+            "percentage": 12.3
+        },
+        {
+            "iso2": "HR",
+            "number_of_users": 2987663,
+            "percentage": 66.75
+        },
+        {
+            "iso2": "IQ",
+            "number_of_users": 2930980,
+            "percentage": 9.2
+        },
+        {
+            "iso2": "LB",
+            "number_of_users": 2912766,
+            "percentage": 70.5
+        },
+        {
+            "iso2": "JO",
+            "number_of_users": 2865080,
+            "percentage": 44.2
+        },
+        {
+            "iso2": "CU",
+            "number_of_users": 2843893,
+            "percentage": 25.71
+        },
+        {
+            "iso2": "GT",
+            "number_of_users": 2831574,
+            "percentage": 19.7
+        },
+        {
+            "iso2": "SN",
+            "number_of_users": 2779786,
+            "percentage": 20.9
+        },
+        {
+            "iso2": "PR",
+            "number_of_users": 2694134,
+            "percentage": 73.9
+        },
+        {
+            "iso2": "BA",
+            "number_of_users": 2631616,
+            "percentage": 67.9
+        },
+        {
+            "iso2": "PY",
+            "number_of_users": 2443980,
+            "percentage": 36.9
+        },
+        {
+            "iso2": "ZW",
+            "number_of_users": 2438838,
+            "percentage": 18.5
+        },
+        {
+            "iso2": "LT",
+            "number_of_users": 2406707,
+            "percentage": 68.45
+        },
+        {
+            "iso2": "ZM",
+            "number_of_users": 2190224,
+            "percentage": 15.4
+        },
+        {
+            "iso2": "CR",
+            "number_of_users": 2158255,
+            "percentage": 45.96
+        },
+        {
+            "iso2": "GE",
+            "number_of_users": 2130070,
+            "percentage": 43.1
+        },
+        {
+            "iso2": "TZ",
+            "number_of_users": 2123525,
+            "percentage": 4.4
+        },
+        {
+            "iso2": "OM",
+            "number_of_users": 2095922,
+            "percentage": 66.45
+        },
+        {
+            "iso2": "PS",
+            "number_of_users": 2069099,
+            "percentage": 46.6
+        },
+        {
+            "iso2": "KW",
+            "number_of_users": 2033885,
+            "percentage": 75.46
+        },
+        {
+            "iso2": "UY",
+            "number_of_users": 1931511,
+            "percentage": 58.1
+        },
+        {
+            "iso2": "AF",
+            "number_of_users": 1835377,
+            "percentage": 5.9
+        },
+        {
+            "iso2": "AL",
+            "number_of_users": 1809854,
+            "percentage": 60.1
+        },
+        {
+            "iso2": "ET",
+            "number_of_users": 1783663,
+            "percentage": 1.9
+        },
+        {
+            "iso2": "MD",
+            "number_of_users": 1766523,
+            "percentage": 48.8
+        },
+        {
+            "iso2": "QA",
+            "number_of_users": 1742205,
+            "percentage": 85.3
+        },
+        {
+            "iso2": "CG",
+            "number_of_users": 1661161,
+            "percentage": 2.2
+        },
+        {
+            "iso2": "LV",
+            "number_of_users": 1638939,
+            "percentage": 75.23
+        },
+        {
+            "iso2": "PA",
+            "number_of_users": 1526986,
+            "percentage": 42.9
+        },
+        {
+            "iso2": "HN",
+            "number_of_users": 1503827,
+            "percentage": 17.8
+        },
+        {
+            "iso2": "SI",
+            "number_of_users": 1448199,
+            "percentage": 72.68
+        },
+        {
+            "iso2": "CM",
+            "number_of_users": 1442210,
+            "percentage": 6.4
+        },
+        {
+            "iso2": "AM",
+            "number_of_users": 1418756,
+            "percentage": 46.3
+        },
+        {
+            "iso2": "SV",
+            "number_of_users": 1411652,
+            "percentage": 23.11
+        },
+        {
+            "iso2": "MZ",
+            "number_of_users": 1301220,
+            "percentage": 5.4
+        },
+        {
+            "iso2": "KG",
+            "number_of_users": 1298242,
+            "percentage": 23.4
+        },
+        {
+            "iso2": "MK",
+            "number_of_users": 1277349,
+            "percentage": 61.2
+        },
+        {
+            "iso2": "TJ",
+            "number_of_users": 1265607,
+            "percentage": 16
+        },
+        {
+            "iso2": "BH",
+            "number_of_users": 1153199,
+            "percentage": 90
+        },
+        {
+            "iso2": "JM",
+            "number_of_users": 1099872,
+            "percentage": 37.8
+        },
+        {
+            "iso2": "HT",
+            "number_of_users": 1048757,
+            "percentage": 10.6
+        },
+        {
+            "iso2": "RW",
+            "number_of_users": 1045095,
+            "percentage": 8.7
+        },
+        {
+            "iso2": "EE",
+            "number_of_users": 1013154,
+            "percentage": 80
+        },
+        {
+            "iso2": "LY",
+            "number_of_users": 990387,
+            "percentage": 16.5
+        },
+        {
+            "iso2": "KH",
+            "number_of_users": 912332,
+            "percentage": 6
+        },
+        {
+            "iso2": "MW",
+            "number_of_users": 905988,
+            "percentage": 5.4
+        },
+        {
+            "iso2": "NI",
+            "number_of_users": 897222,
+            "percentage": 15.5
+        },
+        {
+            "iso2": "LA",
+            "number_of_users": 836896,
+            "percentage": 12.5
+        },
+        {
+            "iso2": "BF",
+            "number_of_users": 783770,
+            "percentage": 4.4
+        },
+        {
+            "iso2": "TT",
+            "number_of_users": 781694,
+            "percentage": 63.8
+        },
+        {
+            "iso2": "CY",
+            "number_of_users": 756267,
+            "percentage": 65.45
+        },
+        {
+            "iso2": "MM",
+            "number_of_users": 662008,
+            "percentage": 1.2
+        },
+        {
+            "iso2": "CI",
+            "number_of_users": 582422,
+            "percentage": 2.6
+        },
+        {
+            "iso2": "MU",
+            "number_of_users": 515673,
+            "percentage": 39
+        },
+        {
+            "iso2": "MN",
+            "number_of_users": 521520,
+            "percentage": 16.4
+        },
+        {
+            "iso2": "MG",
+            "number_of_users": 497180,
+            "percentage": 2.2
+        },
+        {
+            "iso2": "TM",
+            "number_of_users": 490852,
+            "percentage": 9.6
+        },
+        {
+            "iso2": "BJ",
+            "number_of_users": 483987,
+            "percentage": 4.9
+        },
+        {
+            "iso2": "LU",
+            "number_of_users": 482820,
+            "percentage": 93.78
+        },
+        {
+            "iso2": "PG",
+            "number_of_users": 418074,
+            "percentage": 6.5
+        },
+        {
+            "iso2": "MO",
+            "number_of_users": 383616,
+            "percentage": 65.8
+        },
+        {
+            "iso2": "ME",
+            "number_of_users": 371173,
+            "percentage": 56.8
+        },
+        {
+            "iso2": "ML",
+            "number_of_users": 336059,
+            "percentage": 2.2
+        },
+        {
+            "iso2": "SZ",
+            "number_of_users": 346630,
+            "percentage": 24.7
+        },
+        {
+            "iso2": "FJ",
+            "number_of_users": 332697,
+            "percentage": 37.1
+        },
+        {
+            "iso2": "TG",
+            "number_of_users": 321941,
+            "percentage": 4.5
+        },
+        {
+            "iso2": "BW",
+            "number_of_users": 319174,
+            "percentage": 15
+        },
+        {
+            "iso2": "IS",
+            "number_of_users": 304394,
+            "percentage": 96.55
+        },
+        {
+            "iso2": "NA",
+            "number_of_users": 303416,
+            "percentage": 13.9
+        },
+        {
+            "iso2": "CD",
+            "number_of_users": 301891,
+            "percentage": 6.6
+        },
+        {
+            "iso2": "NE",
+            "number_of_users": 287289,
+            "percentage": 1.7
+        },
+        {
+            "iso2": "MT",
+            "number_of_users": 283427,
+            "percentage": 68.91
+        },
+        {
+            "iso2": "BN",
+            "number_of_users": 268137,
+            "percentage": 64.5
+        },
+        {
+            "iso2": "GM",
+            "number_of_users": 263627,
+            "percentage": 14
+        },
+        {
+            "iso2": "TD",
+            "number_of_users": 257449,
+            "percentage": 2.3
+        },
+        {
+            "iso2": "GY",
+            "number_of_users": 243146,
+            "percentage": 33
+        },
+        {
+            "iso2": "BS",
+            "number_of_users": 229702,
+            "percentage": 72
+        },
+        {
+            "iso2": "BT",
+            "number_of_users": 216864,
+            "percentage": 29.9
+        },
+        {
+            "iso2": "BB",
+            "number_of_users": 216544,
+            "percentage": 75
+        },
+        {
+            "iso2": "MR",
+            "number_of_users": 213132,
+            "percentage": 6.2
+        },
+        {
+            "iso2": "SR",
+            "number_of_users": 212000,
+            "percentage": 37.4
+        },
+        {
+            "iso2": "CV",
+            "number_of_users": 199142,
+            "percentage": 37.5
+        },
+        {
+            "iso2": "LR",
+            "number_of_users": 183526,
+            "percentage": 4.6
+        },
+        {
+            "iso2": "CF",
+            "number_of_users": 180828,
+            "percentage": 3.5
+        },
+        {
+            "iso2": "GN",
+            "number_of_users": 178816,
+            "percentage": 1.6
+        },
+        {
+            "iso2": "NC",
+            "number_of_users": 174255,
+            "percentage": 66
+        },
+        {
+            "iso2": "MV",
+            "number_of_users": 173749,
+            "percentage": 44.1
+        },
+        {
+            "iso2": "PF",
+            "number_of_users": 157502,
+            "percentage": 56.8
+        },
+        {
+            "iso2": "SO",
+            "number_of_users": 153774,
+            "percentage": 1.5
+        },
+        {
+            "iso2": "GA",
+            "number_of_users": 150906,
+            "percentage": 9.2
+        },
+        {
+            "iso2": "BI",
+            "number_of_users": 130789,
+            "percentage": 1.3
+        },
+        {
+            "iso2": "GQ",
+            "number_of_users": 115456,
+            "percentage": 16.4
+        },
+        {
+            "iso2": "BZ",
+            "number_of_users": 105972,
+            "percentage": 31.7
+        },
+        {
+            "iso2": "GU",
+            "number_of_users": 104887,
+            "percentage": 65.4
+        },
+        {
+            "iso2": "LS",
+            "number_of_users": 96809,
+            "percentage": 5
+        },
+        {
+            "iso2": "SL",
+            "number_of_users": 95416,
+            "percentage": 1.7
+        },
+        {
+            "iso2": "AW",
+            "number_of_users": 86122,
+            "percentage": 78.9
+        },
+        {
+            "iso2": "AD",
+            "number_of_users": 80175,
+            "percentage": 94
+        },
+        {
+            "iso2": "DJ",
+            "number_of_users": 75259,
+            "percentage": 9.5
+        },
+        {
+            "iso2": "BM",
+            "number_of_users": 66202,
+            "percentage": 95.3
+        },
+        {
+            "iso2": "LC",
+            "number_of_users": 57299,
+            "percentage": 35.2
+        },
+        {
+            "iso2": "AG",
+            "number_of_users": 57159,
+            "percentage": 63.4
+        },
+        {
+            "iso2": "ER",
+            "number_of_users": 56103,
+            "percentage": 0.9
+        },
+        {
+            "iso2": "VC",
+            "number_of_users": 53674,
+            "percentage": 52
+        },
+        {
+            "iso2": "GW",
+            "number_of_users": 51487,
+            "percentage": 3.1
+        },
+        {
+            "iso2": "KM",
+            "number_of_users": 48899,
+            "percentage": 6.5
+        },
+        {
+            "iso2": "SB",
+            "number_of_users": 47780,
+            "percentage": 8
+        },
+        {
+            "iso2": "SC",
+            "number_of_users": 45786,
+            "percentage": 50.4
+        },
+        {
+            "iso2": "FO",
+            "number_of_users": 44738,
+            "percentage": 90
+        },
+        {
+            "iso2": "DM",
+            "number_of_users": 43239,
+            "percentage": 59
+        },
+        {
+            "iso2": "ST",
+            "number_of_users": 42968,
+            "percentage": 23
+        },
+        {
+            "iso2": "KN",
+            "number_of_users": 40907,
+            "percentage": 80
+        },
+        {
+            "iso2": "KY",
+            "number_of_users": 39819,
+            "percentage": 74.1
+        },
+        {
+            "iso2": "GD",
+            "number_of_users": 38357,
+            "percentage": 35
+        },
+        {
+            "iso2": "GL",
+            "number_of_users": 37976,
+            "percentage": 65.8
+        },
+        {
+            "iso2": "TO",
+            "number_of_users": 37213,
+            "percentage": 35
+        },
+        {
+            "iso2": "LI",
+            "number_of_users": 34714,
+            "percentage": 93.8
+        },
+        {
+            "iso2": "VI",
+            "number_of_users": 34040,
+            "percentage": 32.5
+        },
+        {
+            "iso2": "WS",
+            "number_of_users": 29908,
+            "percentage": 15.3
+        },
+        {
+            "iso2": "VU",
+            "number_of_users": 29557,
+            "percentage": 11.3
+        },
+        {
+            "iso2": "FM",
+            "number_of_users": 29497,
+            "percentage": 27.8
+        },
+        {
+            "iso2": "MC",
+            "number_of_users": 27664,
+            "percentage": 90.7
+        },
+        {
+            "iso2": "GI",
+            "number_of_users": 18878,
+            "percentage": 65.02
+        },
+        {
+            "iso2": "SM",
+            "number_of_users": 16484,
+            "percentage": 50.8
+        },
+        {
+            "iso2": "VG",
+            "number_of_users": 14456,
+            "percentage": 45.3
+        },
+        {
+            "iso2": "TL",
+            "number_of_users": 12896,
+            "percentage": 1.1
+        },
+        {
+            "iso2": "KI",
+            "number_of_users": 11874,
+            "percentage": 11.5
+        },
+        {
+            "iso2": "AI",
+            "number_of_users": 10209,
+            "percentage": 64.8
+        },
+        {
+            "iso2": "MH",
+            "number_of_users": 8160,
+            "percentage": 11.7
+        },
+        {
+            "iso2": "TV",
+            "number_of_users": 3958,
+            "percentage": 37
+        },
+        {
+            "iso2": "SH",
+            "number_of_users": 2906,
+            "percentage": 37.6
+        },
+        {
+            "iso2": "FK",
+            "number_of_users": 2842,
+            "percentage": 96.9
+        },
+        {
+            "iso2": "MS",
+            "number_of_users": 2833,
+            "percentage": 54.6
+        },
+        {
+            "iso2": "WF",
+            "number_of_users": 1383,
+            "percentage": 8.95
+        },
+        {
+            "iso2": "NU",
+            "number_of_users": 1034,
+            "percentage": 86.9
+        }
+    ]
+}

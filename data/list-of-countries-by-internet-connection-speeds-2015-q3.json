@@ -1,0 +1,450 @@
+{
+    "__meta": {
+        "name": "List of countries by Internet connection speeds 2015 Q3",
+        "attribution": "Akamai, Wikipedia [https:\/\/en.wikipedia.org\/wiki\/List_of_countries_by_Internet_connection_speeds]",
+        "licensing": "This dataset uses material from the Wikipedia article \"List of countries by number of broadband Internet subscriptions\", which is released under the Creative Commons Attribution-Share-Alike License 3.0",
+        "date": "2016-04-22T18:40:10+02:00"
+    },
+    "data": [
+        {
+            "iso2": "AR",
+            "avg": 4.2,
+            "avg_peak": 26.9,
+            "above_4mbits": 39,
+            "above_10mbits": 3.1,
+            "above_15mbits": 0.5
+        },
+        {
+            "iso2": "BO",
+            "avg": 1.8,
+            "avg_peak": 13.9,
+            "above_4mbits": 2.8,
+            "above_10mbits": 0.2,
+            "above_15mbits": 0.1
+        },
+        {
+            "iso2": "BR",
+            "avg": 3.6,
+            "avg_peak": 29,
+            "above_4mbits": 32,
+            "above_10mbits": 2.2,
+            "above_15mbits": 0.6
+        },
+        {
+            "iso2": "CA",
+            "avg": 11.9,
+            "avg_peak": 52.4,
+            "above_4mbits": 87,
+            "above_10mbits": 43,
+            "above_15mbits": 21
+        },
+        {
+            "iso2": "CL",
+            "avg": 5.7,
+            "avg_peak": 42,
+            "above_4mbits": 62,
+            "above_10mbits": 7.1,
+            "above_15mbits": 1.6
+        },
+        {
+            "iso2": "CO",
+            "avg": 4.2,
+            "avg_peak": 28.1,
+            "above_4mbits": 48,
+            "above_10mbits": 1.7,
+            "above_15mbits": 0.4
+        },
+        {
+            "iso2": "CR",
+            "avg": 3.2,
+            "avg_peak": 16.4,
+            "above_4mbits": 20,
+            "above_10mbits": 1.1,
+            "above_15mbits": 0.5
+        },
+        {
+            "iso2": "EC",
+            "avg": 4.1,
+            "avg_peak": 25.5,
+            "above_4mbits": 36,
+            "above_10mbits": 2.5,
+            "above_15mbits": 0.6
+        },
+        {
+            "iso2": "MX",
+            "avg": 5.5,
+            "avg_peak": 27.3,
+            "above_4mbits": 64,
+            "above_10mbits": 6.4,
+            "above_15mbits": 1.7
+        },
+        {
+            "iso2": "PA",
+            "avg": 3.5,
+            "avg_peak": 16.9,
+            "above_4mbits": 33,
+            "above_10mbits": 1.5,
+            "above_15mbits": 0.4
+        },
+        {
+            "iso2": "PY",
+            "avg": 1.5,
+            "avg_peak": 13.4,
+            "above_4mbits": 2.1,
+            "above_10mbits": 0.1,
+            "above_15mbits": 0.1
+        },
+        {
+            "iso2": "PE",
+            "avg": 4.4,
+            "avg_peak": 30.4,
+            "above_4mbits": 46,
+            "above_10mbits": 2.9,
+            "above_15mbits": 0.6
+        },
+        {
+            "iso2": "US",
+            "avg": 12.6,
+            "avg_peak": 57.3,
+            "above_4mbits": 80,
+            "above_10mbits": 46,
+            "above_15mbits": 24
+        },
+        {
+            "iso2": "UY",
+            "avg": 5.9,
+            "avg_peak": 60.2,
+            "above_4mbits": 68,
+            "above_10mbits": 7.7,
+            "above_15mbits": 1.6
+        },
+        {
+            "iso2": "VE",
+            "avg": 1.5,
+            "avg_peak": 11.8,
+            "above_4mbits": 2.1,
+            "above_10mbits": 0.2,
+            "above_15mbits": 0.1
+        },
+        {
+            "iso2": "AU",
+            "avg": 7.8,
+            "avg_peak": 41.9,
+            "above_4mbits": 72,
+            "above_10mbits": 18,
+            "above_15mbits": 7.4
+        },
+        {
+            "iso2": "CN",
+            "avg": 3.7,
+            "avg_peak": 23.1,
+            "above_4mbits": 33,
+            "above_10mbits": 1.6,
+            "above_15mbits": 0.3
+        },
+        {
+            "iso2": "HK",
+            "avg": 15.8,
+            "avg_peak": 101.1,
+            "above_4mbits": 92,
+            "above_10mbits": 59,
+            "above_15mbits": 36
+        },
+        {
+            "iso2": "IN",
+            "avg": 2.5,
+            "avg_peak": 18.7,
+            "above_4mbits": 14,
+            "above_10mbits": 2.3,
+            "above_15mbits": 0.8
+        },
+        {
+            "iso2": "ID",
+            "avg": 7.45,
+            "avg_peak": 31,
+            "above_4mbits": 17,
+            "above_10mbits": 0.9,
+            "above_15mbits": 0.4
+        },
+        {
+            "iso2": "JP",
+            "avg": 15,
+            "avg_peak": 78.4,
+            "above_4mbits": 90,
+            "above_10mbits": 54,
+            "above_15mbits": 32
+        },
+        {
+            "iso2": "MY",
+            "avg": 4.9,
+            "avg_peak": 38.3,
+            "above_4mbits": 52,
+            "above_10mbits": 4,
+            "above_15mbits": 0.9
+        },
+        {
+            "iso2": "NZ",
+            "avg": 8.7,
+            "avg_peak": 42,
+            "above_4mbits": 87,
+            "above_10mbits": 22,
+            "above_15mbits": 8.2
+        },
+        {
+            "iso2": "PH",
+            "avg": 2.8,
+            "avg_peak": 25.3,
+            "above_4mbits": 10,
+            "above_10mbits": 0.9,
+            "above_15mbits": 0.3
+        },
+        {
+            "iso2": "SG",
+            "avg": 12.5,
+            "avg_peak": 135.4,
+            "above_4mbits": 87,
+            "above_10mbits": 51,
+            "above_15mbits": 27
+        },
+        {
+            "iso2": "KR",
+            "avg": 20.5,
+            "avg_peak": 86.6,
+            "above_4mbits": 96,
+            "above_10mbits": 68,
+            "above_15mbits": 45
+        },
+        {
+            "iso2": "LK",
+            "avg": 5.1,
+            "avg_peak": 33.5,
+            "above_4mbits": 76,
+            "above_10mbits": 2.2,
+            "above_15mbits": 0.6
+        },
+        {
+            "iso2": "TW",
+            "avg": 10.1,
+            "avg_peak": 77.9,
+            "above_4mbits": 88,
+            "above_10mbits": 29,
+            "above_15mbits": 13
+        },
+        {
+            "iso2": "TH",
+            "avg": 8.2,
+            "avg_peak": 58.3,
+            "above_4mbits": 93,
+            "above_10mbits": 18,
+            "above_15mbits": 5.8
+        },
+        {
+            "iso2": "VN",
+            "avg": 3.4,
+            "avg_peak": 25.5,
+            "above_4mbits": 31,
+            "above_10mbits": 0.6,
+            "above_15mbits": 0.1
+        },
+        {
+            "iso2": "AT",
+            "avg": 11.4,
+            "avg_peak": 44,
+            "above_4mbits": 90,
+            "above_10mbits": 33,
+            "above_15mbits": 17
+        },
+        {
+            "iso2": "BE",
+            "avg": 12.8,
+            "avg_peak": 59.3,
+            "above_4mbits": 91,
+            "above_10mbits": 52,
+            "above_15mbits": 26
+        },
+        {
+            "iso2": "CZ",
+            "avg": 14.5,
+            "avg_peak": 50.9,
+            "above_4mbits": 86,
+            "above_10mbits": 46,
+            "above_15mbits": 27
+        },
+        {
+            "iso2": "DK",
+            "avg": 14,
+            "avg_peak": 50.1,
+            "above_4mbits": 94,
+            "above_10mbits": 51,
+            "above_15mbits": 29
+        },
+        {
+            "iso2": "FI",
+            "avg": 14.8,
+            "avg_peak": 57.4,
+            "above_4mbits": 91,
+            "above_10mbits": 51,
+            "above_15mbits": 28
+        },
+        {
+            "iso2": "FR",
+            "avg": 8.2,
+            "avg_peak": 38.9,
+            "above_4mbits": 74,
+            "above_10mbits": 21,
+            "above_15mbits": 8.7
+        },
+        {
+            "iso2": "DE",
+            "avg": 11.5,
+            "avg_peak": 49.2,
+            "above_4mbits": 87,
+            "above_10mbits": 37,
+            "above_15mbits": 19
+        },
+        {
+            "iso2": "HU",
+            "avg": 10.7,
+            "avg_peak": 53.9,
+            "above_4mbits": 90,
+            "above_10mbits": 36,
+            "above_15mbits": 18
+        },
+        {
+            "iso2": "IE",
+            "avg": 12.4,
+            "avg_peak": 52,
+            "above_4mbits": 76,
+            "above_10mbits": 41,
+            "above_15mbits": 23
+        },
+        {
+            "iso2": "IL",
+            "avg": 11.2,
+            "avg_peak": 70,
+            "above_4mbits": 94,
+            "above_10mbits": 36,
+            "above_15mbits": 14
+        },
+        {
+            "iso2": "IT",
+            "avg": 6.5,
+            "avg_peak": 30.1,
+            "above_4mbits": 71,
+            "above_10mbits": 9.2,
+            "above_15mbits": 3.4
+        },
+        {
+            "iso2": "NL",
+            "avg": 15.6,
+            "avg_peak": 63.5,
+            "above_4mbits": 95,
+            "above_10mbits": 60,
+            "above_15mbits": 34
+        },
+        {
+            "iso2": "NO",
+            "avg": 16.4,
+            "avg_peak": 55.9,
+            "above_4mbits": 88,
+            "above_10mbits": 54,
+            "above_15mbits": 37
+        },
+        {
+            "iso2": "PL",
+            "avg": 10.6,
+            "avg_peak": 45.6,
+            "above_4mbits": 88,
+            "above_10mbits": 34,
+            "above_15mbits": 17
+        },
+        {
+            "iso2": "PT",
+            "avg": 10.6,
+            "avg_peak": 47.9,
+            "above_4mbits": 85,
+            "above_10mbits": 37,
+            "above_15mbits": 19
+        },
+        {
+            "iso2": "RO",
+            "avg": 13.1,
+            "avg_peak": 72.9,
+            "above_4mbits": 94,
+            "above_10mbits": 57,
+            "above_15mbits": 27
+        },
+        {
+            "iso2": "RU",
+            "avg": 10.2,
+            "avg_peak": 57.9,
+            "above_4mbits": 87,
+            "above_10mbits": 38,
+            "above_15mbits": 15
+        },
+        {
+            "iso2": "SK",
+            "avg": 11.2,
+            "avg_peak": 49,
+            "above_4mbits": 85,
+            "above_10mbits": 28,
+            "above_15mbits": 17
+        },
+        {
+            "iso2": "ZA",
+            "avg": 3.7,
+            "avg_peak": 18.9,
+            "above_4mbits": 22,
+            "above_10mbits": 2.9,
+            "above_15mbits": 1.7
+        },
+        {
+            "iso2": "ES",
+            "avg": 10.4,
+            "avg_peak": 53.5,
+            "above_4mbits": 85,
+            "above_10mbits": 34,
+            "above_15mbits": 17
+        },
+        {
+            "iso2": "SE",
+            "avg": 17.4,
+            "avg_peak": 69,
+            "above_4mbits": 92,
+            "above_10mbits": 55,
+            "above_15mbits": 38
+        },
+        {
+            "iso2": "CH",
+            "avg": 16.2,
+            "avg_peak": 62.6,
+            "above_4mbits": 93,
+            "above_10mbits": 61,
+            "above_15mbits": 36
+        },
+        {
+            "iso2": "TR",
+            "avg": 6.2,
+            "avg_peak": 38.5,
+            "above_4mbits": 77,
+            "above_10mbits": 7.6,
+            "above_15mbits": 2.9
+        },
+        {
+            "iso2": "AE",
+            "avg": 6.8,
+            "avg_peak": 45.8,
+            "above_4mbits": 85,
+            "above_10mbits": 10,
+            "above_15mbits": 2.3
+        },
+        {
+            "iso2": "GB",
+            "avg": 13,
+            "avg_peak": 54.2,
+            "above_4mbits": 87,
+            "above_10mbits": 46,
+            "above_15mbits": 28
+        }
+    ]
+}

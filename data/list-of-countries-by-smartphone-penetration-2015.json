@@ -1,0 +1,170 @@
+{
+    "__meta": {
+        "name": "List of countries by smartphone penetration 2015",
+        "attribution": "Pew Research Center",
+        "licensing": "This dataset uses material from the Wikipedia article \"List of countries by smartphone penetration\", which is released under the Creative Commons Attribution-Share-Alike License 3.0",
+        "date": "2016-04-22T18:14:29+02:00"
+    },
+    "data": [
+        {
+            "iso2": "KR",
+            "percent": 88
+        },
+        {
+            "iso2": "AU",
+            "percent": 77
+        },
+        {
+            "iso2": "IL",
+            "percent": 74
+        },
+        {
+            "iso2": "US",
+            "percent": 72
+        },
+        {
+            "iso2": "ES",
+            "percent": 71
+        },
+        {
+            "iso2": "GB",
+            "percent": 68
+        },
+        {
+            "iso2": "CA",
+            "percent": 67
+        },
+        {
+            "iso2": "CL",
+            "percent": 65
+        },
+        {
+            "iso2": "MY",
+            "percent": 65
+        },
+        {
+            "iso2": "DE",
+            "percent": 60
+        },
+        {
+            "iso2": "IT",
+            "percent": 60
+        },
+        {
+            "iso2": "TR",
+            "percent": 59
+        },
+        {
+            "iso2": "CN",
+            "percent": 58
+        },
+        {
+            "iso2": "PS",
+            "percent": 57
+        },
+        {
+            "iso2": "LB",
+            "percent": 52
+        },
+        {
+            "iso2": "JO",
+            "percent": 51
+        },
+        {
+            "iso2": "FR",
+            "percent": 49
+        },
+        {
+            "iso2": "AR",
+            "percent": 48
+        },
+        {
+            "iso2": "RU",
+            "percent": 45
+        },
+        {
+            "iso2": "VE",
+            "percent": 45
+        },
+        {
+            "iso2": "BR",
+            "percent": 41
+        },
+        {
+            "iso2": "PL",
+            "percent": 41
+        },
+        {
+            "iso2": "JP",
+            "percent": 39
+        },
+        {
+            "iso2": "ZA",
+            "percent": 37
+        },
+        {
+            "iso2": "MX",
+            "percent": 35
+        },
+        {
+            "iso2": "VN",
+            "percent": 35
+        },
+        {
+            "iso2": "NG",
+            "percent": 28
+        },
+        {
+            "iso2": "UA",
+            "percent": 27
+        },
+        {
+            "iso2": "KE",
+            "percent": 26
+        },
+        {
+            "iso2": "PE",
+            "percent": 25
+        },
+        {
+            "iso2": "PH",
+            "percent": 22
+        },
+        {
+            "iso2": "GH",
+            "percent": 21
+        },
+        {
+            "iso2": "ID",
+            "percent": 21
+        },
+        {
+            "iso2": "SN",
+            "percent": 19
+        },
+        {
+            "iso2": "IN",
+            "percent": 17
+        },
+        {
+            "iso2": "BF",
+            "percent": 14
+        },
+        {
+            "iso2": "PK",
+            "percent": 11
+        },
+        {
+            "iso2": "TZ",
+            "percent": 11
+        },
+        {
+            "iso2": "ET",
+            "percent": 4
+        },
+        {
+            "iso2": "UG",
+            "percent": 4
+        }
+    ]
+}

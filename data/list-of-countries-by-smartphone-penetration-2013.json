@@ -1,0 +1,198 @@
+{
+    "__meta": {
+        "name": "List of countries by smartphone penetration 2013",
+        "attribution": "Google, Our Mobile Planet in 2013",
+        "licensing": "This dataset uses material from the Wikipedia article \"List of countries by smartphone penetration\", which is released under the Creative Commons Attribution-Share-Alike License 3.0",
+        "date": "2016-04-22T18:16:43+02:00"
+    },
+    "data": [
+        {
+            "iso2": "AE",
+            "percent": 73.8
+        },
+        {
+            "iso2": "KR",
+            "percent": 73
+        },
+        {
+            "iso2": "SA",
+            "percent": 72.8
+        },
+        {
+            "iso2": "SG",
+            "percent": 71.7
+        },
+        {
+            "iso2": "NO",
+            "percent": 67.5
+        },
+        {
+            "iso2": "AU",
+            "percent": 64.6
+        },
+        {
+            "iso2": "SE",
+            "percent": 62.9
+        },
+        {
+            "iso2": "HK",
+            "percent": 62.8
+        },
+        {
+            "iso2": "GB",
+            "percent": 62.2
+        },
+        {
+            "iso2": "DK",
+            "percent": 59
+        },
+        {
+            "iso2": "IE",
+            "percent": 57
+        },
+        {
+            "iso2": "IL",
+            "percent": 56.6
+        },
+        {
+            "iso2": "CA",
+            "percent": 56.4
+        },
+        {
+            "iso2": "US",
+            "percent": 56.4
+        },
+        {
+            "iso2": "ES",
+            "percent": 55.4
+        },
+        {
+            "iso2": "CH",
+            "percent": 54
+        },
+        {
+            "iso2": "NZ",
+            "percent": 53.6
+        },
+        {
+            "iso2": "NL",
+            "percent": 52
+        },
+        {
+            "iso2": "TW",
+            "percent": 50.8
+        },
+        {
+            "iso2": "AT",
+            "percent": 48
+        },
+        {
+            "iso2": "CN",
+            "percent": 46.9
+        },
+        {
+            "iso2": "SK",
+            "percent": 45.9
+        },
+        {
+            "iso2": "FI",
+            "percent": 45.5
+        },
+        {
+            "iso2": "FR",
+            "percent": 42.3
+        },
+        {
+            "iso2": "CZ",
+            "percent": 41.6
+        },
+        {
+            "iso2": "IT",
+            "percent": 41.3
+        },
+        {
+            "iso2": "DE",
+            "percent": 39.8
+        },
+        {
+            "iso2": "ZA",
+            "percent": 39.8
+        },
+        {
+            "iso2": "PH",
+            "percent": 38.7
+        },
+        {
+            "iso2": "MX",
+            "percent": 36.8
+        },
+        {
+            "iso2": "RU",
+            "percent": 36.2
+        },
+        {
+            "iso2": "PL",
+            "percent": 35
+        },
+        {
+            "iso2": "MY",
+            "percent": 34.5
+        },
+        {
+            "iso2": "HU",
+            "percent": 34.4
+        },
+        {
+            "iso2": "BE",
+            "percent": 33.5
+        },
+        {
+            "iso2": "GR",
+            "percent": 32.5
+        },
+        {
+            "iso2": "PT",
+            "percent": 32.1
+        },
+        {
+            "iso2": "TH",
+            "percent": 31
+        },
+        {
+            "iso2": "AR",
+            "percent": 30.7
+        },
+        {
+            "iso2": "TR",
+            "percent": 29.6
+        },
+        {
+            "iso2": "RO",
+            "percent": 27.9
+        },
+        {
+            "iso2": "BR",
+            "percent": 26.3
+        },
+        {
+            "iso2": "JP",
+            "percent": 24.7
+        },
+        {
+            "iso2": "VN",
+            "percent": 19.7
+        },
+        {
+            "iso2": "ID",
+            "percent": 14
+        },
+        {
+            "iso2": "UA",
+            "percent": 14.4
+        },
+        {
+            "iso2": "IN",
+            "percent": 12.8
+        }
+    ]
+}
