@@ -1,0 +1,70 @@
+{
+    "__meta": {
+        "name": "List of countries by 4G LTE penetration 2015",
+        "attribution": "OpenSignal.com",
+        "licensing": "Creative Commons Attribution-Share-Alike 3.0",
+        "date": "2016-04-23T14:22:23+00:00"
+    },
+    "data": [
+        {
+            "iso2": "KR",
+            "percentage": 97
+        },
+        {
+            "iso2": "JP",
+            "percentage": 90
+        },
+        {
+            "iso2": "HK",
+            "percentage": 86
+        },
+        {
+            "iso2": "KW",
+            "percentage": 86
+        },
+        {
+            "iso2": "SG",
+            "percentage": 84
+        },
+        {
+            "iso2": "UY",
+            "percentage": 84
+        },
+        {
+            "iso2": "KZ",
+            "percentage": 81
+        },
+        {
+            "iso2": "NL",
+            "percentage": 80
+        },
+        {
+            "iso2": "BH",
+            "percentage": 79
+        },
+        {
+            "iso2": "US",
+            "percentage": 78
+        },
+        {
+            "iso2": "SE",
+            "percentage": 78
+        },
+        {
+            "iso2": "CN",
+            "percentage": 76
+        },
+        {
+            "iso2": "QA",
+            "percentage": 75
+        },
+        {
+            "iso2": "AU",
+            "percentage": 74
+        },
+        {
+            "iso2": "EE",
+            "percentage": 74
+        }
+    ]
+}

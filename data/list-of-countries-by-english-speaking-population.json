@@ -1,0 +1,994 @@
+{
+    "__meta": {
+        "name": "List of countries by English-speaking population",
+        "attribution": "Wikipedia [https:\/\/en.wikipedia.org\/wiki\/List_of_countries_by_English-speaking_population]",
+        "licensing": "This dataset uses material from the Wikipedia article \"List of countries by English-speaking population\", which is released under the Creative Commons Attribution-Share-Alike License 3.0",
+        "date": "2016-04-23T14:56:10+00:00"
+    },
+    "data": [
+        {
+            "iso2": "US",
+            "percent": 94.2,
+            "eligible": 316823000,
+            "speakers": 298444149,
+            "speakers_as_first": 255505953,
+            "speakers_as_additional": 42938196
+        },
+        {
+            "iso2": "IN",
+            "percent": 10.35,
+            "eligible": 1210000000,
+            "speakers": 125226449,
+            "speakers_as_first": 226449,
+            "speakers_as_additional": 125000000
+        },
+        {
+            "iso2": "PK",
+            "percent": 49,
+            "eligible": 188400100,
+            "speakers": 92316049,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 92316049
+        },
+        {
+            "iso2": "NG",
+            "percent": 53,
+            "eligible": 156493000,
+            "speakers": 82941000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 82941000
+        },
+        {
+            "iso2": "GB",
+            "percent": 97.74,
+            "eligible": 64000000,
+            "speakers": 63962000,
+            "speakers_as_first": 58972000,
+            "speakers_as_additional": 5128000
+        },
+        {
+            "iso2": "PH",
+            "percent": 56.63,
+            "eligible": 100437852,
+            "speakers": 57292884,
+            "speakers_as_first": 36935,
+            "speakers_as_additional": 52255949
+        },
+        {
+            "iso2": "DE",
+            "percent": 64,
+            "eligible": 80600000,
+            "speakers": 51584000,
+            "speakers_as_first": 272504,
+            "speakers_as_additional": 48000000
+        },
+        {
+            "iso2": "BD",
+            "percent": 2,
+            "eligible": 163323100,
+            "speakers": 3266462,
+            "speakers_as_first": 709873,
+            "speakers_as_additional": 2556589
+        },
+        {
+            "iso2": "CA",
+            "percent": 85.63,
+            "eligible": 33121175,
+            "speakers": 28360240,
+            "speakers_as_first": 19424090,
+            "speakers_as_additional": 8936150
+        },
+        {
+            "iso2": "EG",
+            "percent": 35,
+            "eligible": 83289500,
+            "speakers": 28101325,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 28101325
+        },
+        {
+            "iso2": "FR",
+            "percent": 39,
+            "eligible": 65350000,
+            "speakers": 25500000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 25500000
+        },
+        {
+            "iso2": "IT",
+            "percent": 34,
+            "eligible": 59619290,
+            "speakers": 20300000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 20300000
+        },
+        {
+            "iso2": "AU",
+            "percent": 97.03,
+            "eligible": 21394309,
+            "speakers": 17357833,
+            "speakers_as_first": 15013965,
+            "speakers_as_additional": 2343868
+        },
+        {
+            "iso2": "TH",
+            "percent": 27.16,
+            "eligible": 63038247,
+            "speakers": 17121187,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 17121187
+        },
+        {
+            "iso2": "NL",
+            "percent": 90,
+            "eligible": 16770000,
+            "speakers": 15030000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 15030000
+        },
+        {
+            "iso2": "NP",
+            "percent": 46.49,
+            "eligible": 29890686,
+            "speakers": 13896720,
+            "speakers_as_first": 20000,
+            "speakers_as_additional": 876720
+        },
+        {
+            "iso2": "ZA",
+            "percent": 31,
+            "eligible": 52981991,
+            "speakers": 16424417,
+            "speakers_as_first": 4930510,
+            "speakers_as_additional": 11493907
+        },
+        {
+            "iso2": "PL",
+            "percent": 33,
+            "eligible": 38501000,
+            "speakers": 12700000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 12700000
+        },
+        {
+            "iso2": "TR",
+            "percent": 17,
+            "eligible": 70586256,
+            "speakers": 12000000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 12000000
+        },
+        {
+            "iso2": "IQ",
+            "percent": 35,
+            "eligible": 31700000,
+            "speakers": 11095000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 11000000
+        },
+        {
+            "iso2": "ES",
+            "percent": 22,
+            "eligible": 47190000,
+            "speakers": 10400000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 10400000
+        },
+        {
+            "iso2": "CN",
+            "percent": 8,
+            "eligible": 1200000000,
+            "speakers": 10000000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 100000000
+        },
+        {
+            "iso2": "BR",
+            "percent": 5,
+            "eligible": 205000000,
+            "speakers": 10542000,
+            "speakers_as_first": 292000,
+            "speakers_as_additional": 10250000
+        },
+        {
+            "iso2": "SE",
+            "percent": 86,
+            "eligible": 9785000,
+            "speakers": 8200000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 8200000
+        },
+        {
+            "iso2": "KE",
+            "percent": 18.83,
+            "eligible": 43013431,
+            "speakers": 8100000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 7900000
+        },
+        {
+            "iso2": "CM",
+            "percent": 38,
+            "eligible": 19740000,
+            "speakers": 7500000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 7500000
+        },
+        {
+            "iso2": "MY",
+            "percent": 62.57,
+            "eligible": 27170000,
+            "speakers": 5580000,
+            "speakers_as_first": 380000,
+            "speakers_as_additional": 5200000
+        },
+        {
+            "iso2": "RU",
+            "percent": 5.48,
+            "eligible": 138312535,
+            "speakers": 7574303,
+            "speakers_as_first": 2522,
+            "speakers_as_additional": 7571787
+        },
+        {
+            "iso2": "BE",
+            "percent": 59,
+            "eligible": 10584534,
+            "speakers": 6250000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 6250000
+        },
+        {
+            "iso2": "IL",
+            "percent": 84.97,
+            "eligible": 7303000,
+            "speakers": 6205000,
+            "speakers_as_first": 100000,
+            "speakers_as_additional": 6105000
+        },
+        {
+            "iso2": "AT",
+            "percent": 73,
+            "eligible": 8415000,
+            "speakers": 6150000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 6150000
+        },
+        {
+            "iso2": "RO",
+            "percent": 31,
+            "eligible": 19043767,
+            "speakers": 5900000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 5900000
+        },
+        {
+            "iso2": "ZW",
+            "percent": 41.58,
+            "eligible": 13349000,
+            "speakers": 5550000,
+            "speakers_as_first": 250000,
+            "speakers_as_additional": 5300000
+        },
+        {
+            "iso2": "GR",
+            "percent": 51,
+            "eligible": 10787690,
+            "speakers": 5500000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 5500000
+        },
+        {
+            "iso2": "SL",
+            "percent": 83.53,
+            "eligible": 5866000,
+            "speakers": 4900000,
+            "speakers_as_first": 500000,
+            "speakers_as_additional": 4400000
+        },
+        {
+            "iso2": "MX",
+            "percent": 12.9,
+            "eligible": 120664000,
+            "speakers": 15686262,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 15686262
+        },
+        {
+            "iso2": "DK",
+            "percent": 86,
+            "eligible": 5543000,
+            "speakers": 4770000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 4770000
+        },
+        {
+            "iso2": "CH",
+            "percent": 61.28,
+            "eligible": 7637300,
+            "speakers": 4680000,
+            "speakers_as_first": 73400,
+            "speakers_as_additional": 4606600
+        },
+        {
+            "iso2": "MA",
+            "percent": 14,
+            "eligible": 32770900,
+            "speakers": 4587926,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 4587926
+        },
+        {
+            "iso2": "NO",
+            "percent": 90,
+            "eligible": 5136700,
+            "speakers": 4500000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 4500000
+        },
+        {
+            "iso2": "IE",
+            "percent": 98.37,
+            "eligible": 4422100,
+            "speakers": 4350000,
+            "speakers_as_first": 4122100,
+            "speakers_as_additional": 237900
+        },
+        {
+            "iso2": "SG",
+            "percent": 80,
+            "eligible": 5076700,
+            "speakers": 4822865,
+            "speakers_as_first": 1097443,
+            "speakers_as_additional": 253835
+        },
+        {
+            "iso2": "GH",
+            "percent": 66.67,
+            "eligible": 27000000,
+            "speakers": 18000000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 18000000
+        },
+        {
+            "iso2": "TZ",
+            "percent": 9.89,
+            "eligible": 40454000,
+            "speakers": 4000000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 4000000
+        },
+        {
+            "iso2": "NZ",
+            "percent": 97.82,
+            "eligible": 4275100,
+            "speakers": 3673623,
+            "speakers_as_first": 3673623,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "FI",
+            "percent": 70,
+            "eligible": 5410000,
+            "speakers": 3800000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 3800000
+        },
+        {
+            "iso2": "PT",
+            "percent": 27,
+            "eligible": 10623000,
+            "speakers": 2900000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 2900000
+        },
+        {
+            "iso2": "PG",
+            "percent": 49.76,
+            "eligible": 6331000,
+            "speakers": 3150000,
+            "speakers_as_first": 150000,
+            "speakers_as_additional": 3000000
+        },
+        {
+            "iso2": "LR",
+            "percent": 82.67,
+            "eligible": 3750000,
+            "speakers": 3100000,
+            "speakers_as_first": 600000,
+            "speakers_as_additional": 2500000
+        },
+        {
+            "iso2": "JO",
+            "percent": 45,
+            "eligible": 6598000,
+            "speakers": 2969370,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 2969370
+        },
+        {
+            "iso2": "JM",
+            "percent": 97.64,
+            "eligible": 2714000,
+            "speakers": 2650000,
+            "speakers_as_first": 2600000,
+            "speakers_as_additional": 50000
+        },
+        {
+            "iso2": "DZ",
+            "percent": 7,
+            "eligible": 35954000,
+            "speakers": 2516780,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 2516780
+        },
+        {
+            "iso2": "UG",
+            "percent": 8.09,
+            "eligible": 30884000,
+            "speakers": 2500000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 2500000
+        },
+        {
+            "iso2": "HK",
+            "percent": 46.07,
+            "eligible": 6808433,
+            "speakers": 3136784,
+            "speakers_as_first": 238288,
+            "speakers_as_additional": 2898496
+        },
+        {
+            "iso2": "CZ",
+            "percent": 27,
+            "eligible": 10562214,
+            "speakers": 2850000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 2850000
+        },
+        {
+            "iso2": "AR",
+            "percent": 6.52,
+            "eligible": 42192500,
+            "speakers": 2752681,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "YE",
+            "percent": 9,
+            "eligible": 24800000,
+            "speakers": 2232000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 2232000
+        },
+        {
+            "iso2": "HR",
+            "percent": 49,
+            "eligible": 4555000,
+            "speakers": 2200000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 2200000
+        },
+        {
+            "iso2": "CO",
+            "percent": 4.22,
+            "eligible": 47661368,
+            "speakers": 2012950,
+            "speakers_as_first": 75600,
+            "speakers_as_additional": 1937350
+        },
+        {
+            "iso2": "HU",
+            "percent": 20,
+            "eligible": 9982000,
+            "speakers": 2000000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 2000000
+        },
+        {
+            "iso2": "PR",
+            "percent": 48.61,
+            "eligible": 3991000,
+            "speakers": 1940000,
+            "speakers_as_first": 100000,
+            "speakers_as_additional": 1840000
+        },
+        {
+            "iso2": "LK",
+            "percent": 9.9,
+            "eligible": 19299000,
+            "speakers": 1910000,
+            "speakers_as_first": 10000,
+            "speakers_as_additional": 1900000
+        },
+        {
+            "iso2": "ZM",
+            "percent": 16.02,
+            "eligible": 11922000,
+            "speakers": 1910000,
+            "speakers_as_first": 110000,
+            "speakers_as_additional": 1800000
+        },
+        {
+            "iso2": "BG",
+            "percent": 25,
+            "eligible": 7640238,
+            "speakers": 1900000,
+            "speakers_as_first": 2605,
+            "speakers_as_additional": 1902605
+        },
+        {
+            "iso2": "KZ",
+            "percent": 15.4,
+            "eligible": 12156705,
+            "speakers": 1874583,
+            "speakers_as_first": 602,
+            "speakers_as_additional": 1873981
+        },
+        {
+            "iso2": "LB",
+            "percent": 40,
+            "eligible": 4265600,
+            "speakers": 1706000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 1706000
+        },
+        {
+            "iso2": "CL",
+            "percent": 9.53,
+            "eligible": 16634603,
+            "speakers": 1585027,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "RW",
+            "percent": 15,
+            "eligible": 10137400,
+            "speakers": 1520610,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 1520610
+        },
+        {
+            "iso2": "SK",
+            "percent": 26,
+            "eligible": 5397036,
+            "speakers": 1400000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 1400000
+        },
+        {
+            "iso2": "TT",
+            "percent": 87.74,
+            "eligible": 1305000,
+            "speakers": 1145000,
+            "speakers_as_first": 1145000,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "SI",
+            "percent": 59,
+            "eligible": 2050000,
+            "speakers": 1210000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 1210000
+        },
+        {
+            "iso2": "LT",
+            "percent": 38,
+            "eligible": 3053800,
+            "speakers": 1160000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 1160000
+        },
+        {
+            "iso2": "LV",
+            "percent": 46,
+            "eligible": 2070371,
+            "speakers": 950000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 950000
+        },
+        {
+            "iso2": "GY",
+            "percent": 90.55,
+            "eligible": 751000,
+            "speakers": 680000,
+            "speakers_as_first": 650000,
+            "speakers_as_additional": 30000
+        },
+        {
+            "iso2": "BW",
+            "percent": 38.42,
+            "eligible": 1639833,
+            "speakers": 630000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 630000
+        },
+        {
+            "iso2": "EE",
+            "percent": 50,
+            "eligible": 1294236,
+            "speakers": 650000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 650000
+        },
+        {
+            "iso2": "CY",
+            "percent": 73,
+            "eligible": 839000,
+            "speakers": 610000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 610000
+        },
+        {
+            "iso2": "MW",
+            "percent": 3.88,
+            "eligible": 13931831,
+            "speakers": 540209,
+            "speakers_as_first": 209,
+            "speakers_as_additional": 540000
+        },
+        {
+            "iso2": "LS",
+            "percent": 27.86,
+            "eligible": 1795000,
+            "speakers": 500000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 500000
+        },
+        {
+            "iso2": "SR",
+            "percent": 87.09,
+            "eligible": 470784,
+            "speakers": 410000,
+            "speakers_as_first": 260000,
+            "speakers_as_additional": 150000
+        },
+        {
+            "iso2": "MT",
+            "percent": 89,
+            "eligible": 453000,
+            "speakers": 400000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 352000
+        },
+        {
+            "iso2": "NA",
+            "percent": 17.24,
+            "eligible": 1820916,
+            "speakers": 314000,
+            "speakers_as_first": 14000,
+            "speakers_as_additional": 300000
+        },
+        {
+            "iso2": "LU",
+            "percent": 56,
+            "eligible": 509000,
+            "speakers": 290000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 290000
+        },
+        {
+            "iso2": "BS",
+            "percent": 87.13,
+            "eligible": 330549,
+            "speakers": 288000,
+            "speakers_as_first": 260000,
+            "speakers_as_additional": 28000
+        },
+        {
+            "iso2": "BB",
+            "percent": 98.57,
+            "eligible": 279000,
+            "speakers": 275000,
+            "speakers_as_first": 262000,
+            "speakers_as_additional": 13000
+        },
+        {
+            "iso2": "BZ",
+            "percent": 81.65,
+            "eligible": 301270,
+            "speakers": 246000,
+            "speakers_as_first": 190000,
+            "speakers_as_additional": 56000
+        },
+        {
+            "iso2": "MG",
+            "percent": 18,
+            "eligible": 23042300,
+            "speakers": 4147614,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 4147614
+        },
+        {
+            "iso2": "MU",
+            "percent": 15.97,
+            "eligible": 1264866,
+            "speakers": 202000,
+            "speakers_as_first": 2000,
+            "speakers_as_additional": 200000
+        },
+        {
+            "iso2": "VU",
+            "percent": 83.55,
+            "eligible": 215446,
+            "speakers": 180000,
+            "speakers_as_first": 60000,
+            "speakers_as_additional": 120000
+        },
+        {
+            "iso2": "FJ",
+            "percent": 20.62,
+            "eligible": 853445,
+            "speakers": 176000,
+            "speakers_as_first": 6000,
+            "speakers_as_additional": 170000
+        },
+        {
+            "iso2": "SB",
+            "percent": 31.68,
+            "eligible": 552438,
+            "speakers": 175000,
+            "speakers_as_first": 10000,
+            "speakers_as_additional": 165000
+        },
+        {
+            "iso2": "GU",
+            "percent": 91.09,
+            "eligible": 173456,
+            "speakers": 158000,
+            "speakers_as_first": 58000,
+            "speakers_as_additional": 100000
+        },
+        {
+            "iso2": "BN",
+            "percent": 39.07,
+            "eligible": 381371,
+            "speakers": 144000,
+            "speakers_as_first": 10000,
+            "speakers_as_additional": 134000
+        },
+        {
+            "iso2": "VC",
+            "percent": 95,
+            "eligible": 120000,
+            "speakers": 114000,
+            "speakers_as_first": 114000,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "VI",
+            "percent": 95.97,
+            "eligible": 108448,
+            "speakers": 113000,
+            "speakers_as_first": 98000,
+            "speakers_as_additional": 15000
+        },
+        {
+            "iso2": "GD",
+            "percent": 90.91,
+            "eligible": 110000,
+            "speakers": 100000,
+            "speakers_as_first": 100000,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "WS",
+            "percent": 49.86,
+            "eligible": 188540,
+            "speakers": 94000,
+            "speakers_as_first": 1000,
+            "speakers_as_additional": 93000
+        },
+        {
+            "iso2": "IM",
+            "percent": 99.93,
+            "eligible": 80058,
+            "speakers": 80000,
+            "speakers_as_first": 80000,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "BT",
+            "percent": 11.4,
+            "eligible": 658000,
+            "speakers": 75000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 75000
+        },
+        {
+            "iso2": "LC",
+            "percent": 43.03,
+            "eligible": 165000,
+            "speakers": 71000,
+            "speakers_as_first": 31000,
+            "speakers_as_additional": 40000
+        },
+        {
+            "iso2": "MP",
+            "percent": 83.33,
+            "eligible": 84000,
+            "speakers": 70000,
+            "speakers_as_first": 5000,
+            "speakers_as_additional": 65000
+        },
+        {
+            "iso2": "AG",
+            "percent": 80,
+            "eligible": 85000,
+            "speakers": 68000,
+            "speakers_as_first": 66000,
+            "speakers_as_additional": 2000
+        },
+        {
+            "iso2": "AS",
+            "percent": 80.1,
+            "eligible": 57345,
+            "speakers": 45933,
+            "speakers_as_first": 1791,
+            "speakers_as_additional": 44142
+        },
+        {
+            "iso2": "FM",
+            "percent": 57.66,
+            "eligible": 111000,
+            "speakers": 64000,
+            "speakers_as_first": 4000,
+            "speakers_as_additional": 60000
+        },
+        {
+            "iso2": "BM",
+            "percent": 96.92,
+            "eligible": 65000,
+            "speakers": 63000,
+            "speakers_as_first": 63000,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "DM",
+            "percent": 94.03,
+            "eligible": 67000,
+            "speakers": 63000,
+            "speakers_as_first": 3000,
+            "speakers_as_additional": 60000
+        },
+        {
+            "iso2": "MH",
+            "percent": 98.33,
+            "eligible": 59000,
+            "speakers": 60000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 60000
+        },
+        {
+            "iso2": "SZ",
+            "percent": 4.38,
+            "eligible": 1141000,
+            "speakers": 50000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 50000
+        },
+        {
+            "iso2": "AW",
+            "percent": 42.31,
+            "eligible": 104000,
+            "speakers": 44000,
+            "speakers_as_first": 9000,
+            "speakers_as_additional": 35000
+        },
+        {
+            "iso2": "GM",
+            "percent": 2.34,
+            "eligible": 1709000,
+            "speakers": 40000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 40000
+        },
+        {
+            "iso2": "KN",
+            "percent": 78,
+            "eligible": 50000,
+            "speakers": 39000,
+            "speakers_as_first": 39000,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "KY",
+            "percent": 76.6,
+            "eligible": 47000,
+            "speakers": 36000,
+            "speakers_as_first": 36000,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "SC",
+            "percent": 37.93,
+            "eligible": 87000,
+            "speakers": 33000,
+            "speakers_as_first": 3000,
+            "speakers_as_additional": 30000
+        },
+        {
+            "iso2": "GI",
+            "percent": 100,
+            "eligible": 28875,
+            "speakers": 28875,
+            "speakers_as_first": 28000,
+            "speakers_as_additional": 875
+        },
+        {
+            "iso2": "TO",
+            "percent": 30,
+            "eligible": 100000,
+            "speakers": 30000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 30000
+        },
+        {
+            "iso2": "KI",
+            "percent": 24.21,
+            "eligible": 95000,
+            "speakers": 23000,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 23000
+        },
+        {
+            "iso2": "VG",
+            "percent": 86.96,
+            "eligible": 23000,
+            "speakers": 20000,
+            "speakers_as_first": 20000,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "PW",
+            "percent": 92.5,
+            "eligible": 20000,
+            "speakers": 18500,
+            "speakers_as_first": 500,
+            "speakers_as_additional": 18000
+        },
+        {
+            "iso2": "AD",
+            "percent": 22,
+            "eligible": 81222,
+            "speakers": 17869,
+            "speakers_as_first": 0,
+            "speakers_as_additional": 17869
+        },
+        {
+            "iso2": "AI",
+            "percent": 92.31,
+            "eligible": 13000,
+            "speakers": 12000,
+            "speakers_as_first": 12000,
+            "speakers_as_additional": 0
+        },
+        {
+            "iso2": "NR",
+            "percent": 100,
+            "eligible": 10300,
+            "speakers": 10300,
+            "speakers_as_first": 800,
+            "speakers_as_additional": 9500
+        },
+        {
+            "iso2": "CK",
+            "percent": 19.8,
+            "eligible": 20200,
+            "speakers": 4000,
+            "speakers_as_first": 1000,
+            "speakers_as_additional": 3000
+        },
+        {
+            "iso2": "MS",
+            "percent": 67.8,
+            "eligible": 5900,
+            "speakers": 4000,
+            "speakers_as_first": 4000,
+            "speakers_as_additional": 0
+        }
+    ]
+}

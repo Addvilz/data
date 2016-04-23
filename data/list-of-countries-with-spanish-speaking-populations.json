@@ -1,0 +1,114 @@
+{
+    "__meta": {
+        "name": "List of countries with Spanish-speaking populations",
+        "attribution": "Wikipedia [https:\/\/en.wikipedia.org\/wiki\/Hispanophone]",
+        "licensing": "This dataset uses material from the Wikipedia article \"Hispanophone\", which is released under the Creative Commons Attribution-Share-Alike License 3.0",
+        "date": "2016-04-23T15:00:47+00:00"
+    },
+    "data": [
+        {
+            "iso2": "MX",
+            "speakers": 112336538
+        },
+        {
+            "iso2": "CO",
+            "speakers": 47598005
+        },
+        {
+            "iso2": "ES",
+            "speakers": 46987819
+        },
+        {
+            "iso2": "AR",
+            "speakers": 40900496
+        },
+        {
+            "iso2": "US",
+            "speakers": 53230000
+        },
+        {
+            "iso2": "PE",
+            "speakers": 29797694
+        },
+        {
+            "iso2": "VE",
+            "speakers": 29210000
+        },
+        {
+            "iso2": "CL",
+            "speakers": 17248450
+        },
+        {
+            "iso2": "EC",
+            "speakers": 14170000
+        },
+        {
+            "iso2": "CU",
+            "speakers": 11268000
+        },
+        {
+            "iso2": "GT",
+            "speakers": 11204000
+        },
+        {
+            "iso2": "BO",
+            "speakers": 10426154
+        },
+        {
+            "iso2": "DO",
+            "speakers": 10090000
+        },
+        {
+            "iso2": "HN",
+            "speakers": 7876197
+        },
+        {
+            "iso2": "SV",
+            "speakers": 6857000
+        },
+        {
+            "iso2": "BR",
+            "speakers": 6676018
+        },
+        {
+            "iso2": "PY",
+            "speakers": 6127000
+        },
+        {
+            "iso2": "NI",
+            "speakers": 5603000
+        },
+        {
+            "iso2": "CR",
+            "speakers": 4468000
+        },
+        {
+            "iso2": "PR",
+            "speakers": 3991000
+        },
+        {
+            "iso2": "PA",
+            "speakers": 3343000
+        },
+        {
+            "iso2": "UY",
+            "speakers": 3340000
+        },
+        {
+            "iso2": "GQ",
+            "speakers": 507000
+        },
+        {
+            "iso2": "PH",
+            "speakers": 439000
+        },
+        {
+            "iso2": "EH",
+            "speakers": 430
+        },
+        {
+            "iso2": "BZ",
+            "speakers": 180000
+        }
+    ]
+}

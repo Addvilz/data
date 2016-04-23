@@ -1,0 +1,66 @@
+{
+    "__meta": {
+        "name": "List of countries by mobile banking usage",
+        "attribution": "Bain, Research Now, GMI NPS",
+        "licensing": "Creative Commons Attribution-Share-Alike 3.0",
+        "date": "2016-04-23T14:25:05+00:00"
+    },
+    "data": [
+        {
+            "iso2": "KR",
+            "percentage": 47
+        },
+        {
+            "iso2": "CN",
+            "percentage": 42
+        },
+        {
+            "iso2": "HK",
+            "percentage": 41
+        },
+        {
+            "iso2": "SG",
+            "percentage": 38
+        },
+        {
+            "iso2": "IN",
+            "percentage": 37
+        },
+        {
+            "iso2": "ES",
+            "percentage": 34
+        },
+        {
+            "iso2": "US",
+            "percentage": 32
+        },
+        {
+            "iso2": "MX",
+            "percentage": 30
+        },
+        {
+            "iso2": "AU",
+            "percentage": 27
+        },
+        {
+            "iso2": "FR",
+            "percentage": 26
+        },
+        {
+            "iso2": "GB",
+            "percentage": 26
+        },
+        {
+            "iso2": "TH",
+            "percentage": 24
+        },
+        {
+            "iso2": "CA",
+            "percentage": 22
+        },
+        {
+            "iso2": "DE",
+            "percentage": 14
+        }
+    ]
+}
