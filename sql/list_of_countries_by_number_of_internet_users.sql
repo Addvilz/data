@@ -1,7 +1,6 @@
 # Name: List of countries by number of Internet users
 # Attribution: Wikipedia [https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users]
-# Licensing: This dataset uses material from the Wikipedia article "List of countries by number of Internet users
-", which is released under the Creative Commons Attribution-Share-Alike License 3.0
+# Licensing: This dataset uses material from the Wikipedia article "List of countries by number of Internet users", which is released under the Creative Commons Attribution-Share-Alike License 3.0
 # Date: 2016-04-22T18:31:00+02:00
 
 CREATE TABLE `list_of_countries_by_number_of_internet_users` (
