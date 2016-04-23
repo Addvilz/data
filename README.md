@@ -1,6 +1,7 @@
 # Useful data
 
 Some JSON datasets I have collected, mostly from Wikipedia and perhaps, other sources.
+These datasets are also available in SQL, you can find them in `/sql/` directory.
 
 ## Table of Contents
 
