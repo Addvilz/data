@@ -1,11 +1,11 @@
 # Useful data
 
-This repository contains somewhat specific JSON datasets I have collected, usually while
+This repository contains somewhat specific datasets I have collected, usually while
 doing correlation and predictive analysis on mobile market statistics - so don't expect to see datasets like
 "Global warming impact on GDP by country" here any time soon. Or ever.
 This data is mostly sourced from Wikipedia, though it might contain data from some other sources as well.
 
-These datasets are also available in SQL, you can find the data files in `/sql/` directory.
+These datasets are available in JSON, with SQL versions located in `/sql/` directory.
 
 ## Contents
 
