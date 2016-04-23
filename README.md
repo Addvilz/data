@@ -1,9 +1,13 @@
 # Useful data
 
-Some JSON datasets I have collected, mostly from Wikipedia and perhaps, other sources.
-These datasets are also available in SQL, you can find them in `/sql/` directory.
+This repository contains somewhat specific JSON datasets I have collected, usually while
+doing correlation and predictive analysis on mobile market statistics - so don't expect to see datasets like
+"Global warming impact on GDP by country" here any time soon. Or ever.
+This data is mostly sourced from Wikipedia, though it might contain data from some other sources as well.
 
-## Table of Contents
+These datasets are also available in SQL, you can find the data files in `/sql/` directory.
+
+## Contents
 
 1. [ISO 3166-1 country codes](./data/iso-3166-1-country-codes.json)
 
@@ -34,8 +38,8 @@ These datasets are also available in SQL, you can find them in `/sql/` directory
 
 
 ## License
-Licensing information provided within each dataset and might differ between them.
+Licensing information provided within each data file and might differ between them.
 
 ## Issues with data
-Although, I try and validate the data as carefully as much as possible, you might stumble upon some discrepancies. All the files are semi-automatically generated from various sources, so they might have some inconsistencies between them, some invalid records etc.
+Although, I try and validate the data as carefully and as much as possible, you might stumble upon some discrepancies. All the files are semi-automatically generated from various sources, so they might have some inconsistencies between them, some invalid records etc.
 Feel free to report them by opening a issue.
