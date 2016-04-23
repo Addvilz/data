@@ -35,3 +35,7 @@ These datasets are also available in SQL, you can find them in `/sql/` directory
 
 ## License
 Licensing information provided within each dataset and might differ between them.
+
+## Issues with data
+Although, I try and validate the data as carefully as much as possible, you might stumble upon some discrepancies. All the files are semi-automatically generated from various sources, so they might have some inconsistencies between them, some invalid records etc.
+Feel free to report them by opening a issue.
